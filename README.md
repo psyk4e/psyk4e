@@ -5,9 +5,21 @@
 
 ### Toolkit
 
-![React, TypeScript, Next.js, Node.js, AWS, Azure and Jest](https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,aws,azure,jest&theme=dark)
+#### Mobile
 
-**Delivery** · EAS Build, Azure Pipelines, functional and regression tests  
+![React Native and TypeScript for iOS and Android](https://skillicons.dev/icons?i=react,ts,apple,androidstudio&theme=dark)
+
+**Core** · React Native, Expo, TypeScript, iOS, Android  
+**Navigation, UI & state** · React Navigation, Reanimated, Zustand, MMKV
+
+#### Full Stack
+
+![Next.js, Node.js, Express, .NET, AWS and Firebase](https://skillicons.dev/icons?i=nextjs,nodejs,express,dotnet,aws,firebase&theme=dark)
+
+**Web & APIs** · React, Next.js, Node.js, Express, C#/.NET, REST APIs  
+**Data & cloud** · SQL Server, Firebase, Amazon S3
+
+**Delivery & QA** · Azure Pipelines, EAS Build, Jest, React Native Testing Library, functional and regression tests  
 **Automation** · n8n, AI agents and reusable skills
 
 ### Apps I've built
