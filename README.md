@@ -4,7 +4,7 @@
 
 I build and modernize mobile apps and help teams ship them. At Grupo Humano, I work on the apps for policyholders and insurance intermediaries, support functional and regression testing with QA, and coordinate production releases. I also build backend services and automate recurring work with AI agents and reusable skills.
 
-[LinkedIn](https://www.linkedin.com/in/sandyacvedo/) · [Portfolio](https://portfolio-psyk4e.vercel.app/) · [OpenRD on the App Store](https://apps.apple.com/do/app/openrd/id6741169848)
+[LinkedIn](https://www.linkedin.com/in/sandyacvedo/) · [Portfolio](https://psyk4e.vercel.app/) · [OpenRD on the App Store](https://apps.apple.com/do/app/openrd/id6741169848)
 
 ## Selected work
 
