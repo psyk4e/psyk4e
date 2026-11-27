@@ -10,13 +10,14 @@
 **Delivery** · EAS Build, Azure Pipelines, functional and regression tests  
 **Automation** · n8n, AI agents and reusable skills
 
-### Projects
+### Apps I've built
 
-| Project | Under the hood |
-| --- | --- |
-| [StockPulse](https://github.com/psyk4e/StockPulse) | Live quotes over WebSocket. Watchlists persisted with MMKV. |
-| [OpenRD](https://apps.apple.com/do/app/openrd/id6741169848) | Expo and Next.js with Zoom calls and S3 document storage. |
-| [dgii-ecf](https://github.com/psyk4e/dgii-ecf) · fork | Server-side signing for Dominican electronic invoices with Node.js. |
+- **[StockPulse](https://github.com/psyk4e/StockPulse)** — Expo stock tracker with live WebSocket quotes and watchlists saved locally in MMKV.
+- **[OpenRD](https://apps.apple.com/do/app/openrd/id6741169848)** — Mobile and web app built with Expo and Next.js, with Zoom calls and document storage on S3.
+
+### Open source contributions
+
+**[dgii-ecf](https://github.com/victors1681/dgii-ecf)** — Node.js library for Dominican electronic invoicing. My merged fixes include [QR code URL encoding](https://github.com/victors1681/dgii-ecf/pull/19) and [handling HTTP 401 responses](https://github.com/victors1681/dgii-ecf/pull/3).
 
 ### Activity
 
